@@ -15,7 +15,7 @@ class MyButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        print('MsjConsola: sdf Presionado');
+        print('MsjConsola: Boton Presionado');
       },
       child: Container(
         height: 36.0,

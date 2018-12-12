@@ -1,3 +1,5 @@
+/* Ejemplo basico de flutter*/
+
 import 'package:flutter/material.dart';
 
 void main() {
